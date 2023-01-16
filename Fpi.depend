@@ -1,0 +1,41 @@
+# depslib dependency file v1.0
+1673773436 source:c:\users\ayala\desktop\fpi\main.cpp
+	<bits/stdc++.h>
+	<stdint.h>
+	"stb_image.h"
+	"stb_image_write.h"
+	"image_processing.h"
+
+1671212148 c:\users\ayala\desktop\fpi\stb_image.h
+	"stb_image.h"
+	<stdio.h>
+	<stdlib.h>
+	<stdarg.h>
+	<stddef.h>
+	<stdlib.h>
+	<string.h>
+	<limits.h>
+	<math.h>
+	<stdio.h>
+	<assert.h>
+	<stdint.h>
+	<emmintrin.h>
+	<intrin.h>
+	<arm_neon.h>
+
+1671212148 c:\users\ayala\desktop\fpi\stb_image_write.h
+	<stdlib.h>
+	<stdio.h>
+	<stdarg.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	<assert.h>
+
+1673773817 source:c:\users\ayala\desktop\fpi\image_processing.cpp
+	"image_processing.h"
+	"stb_image_write.h"
+
+1673772888 c:\users\ayala\desktop\fpi\image_processing.h
+	<bits/stdc++.h>
+
